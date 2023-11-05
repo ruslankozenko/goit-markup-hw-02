@@ -1,0 +1,46 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background: #FFFFFF;
+}
+
+.logo {
+    color: #4D5AE5;
+        font-family: Raleway;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+}
+
+.logo-studio {
+    color: #2E2F42;
+}
+
+.link {
+    color: #2e2f42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+
+.link:hover,
+.link:focus {
+    color: #404bbf;
+}
+
+.contact {
+    color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+
+.address-link:hover,
+.address-link:focus {
+    color: #404bbf;
+}
